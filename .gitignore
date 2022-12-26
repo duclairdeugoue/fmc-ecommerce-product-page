@@ -1,5 +1,9 @@
 # root dictory
+/._*
+./images/._*
 
+# design - directory
+./design/._*
 
 # Avoid accidental upload of the Sketch and Figma design files
 #####################################################
@@ -17,9 +21,4 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
-
-/images/._*
-
-# design - directory
-/design/._*
 
